@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "James Weir",
+            "title": "Warnie film stuns with dubious choice",
+            "description": "The question of what happens after death has finally been answered by Australian cricket legend Shane Warne: You narrate your own cringey two-part Channel 9 biopic from beyond the grave.",
+            "url": "https://www.news.com.au/entertainment/tv/tv-shows/james-weir-recaps-warnie-episode-1-of-the-shane-warne-telemovie/news-story/b83bdcd5f839d3dfd3d035b54917032f",
+            "urlToImage": "https://content.api.news/v3/images/bin/1352f498e5eae9485bd2241539445692",
+            "publishedAt": "2023-06-25T09:02:00Z",
+            "content": "The question of what happens after death has finally been answered by Australian cricket legend Shane Warne: You narrate your own cringey two-part Channel 9 biopic from beyond the grave.\r\nWarnie, Cha… [+4206 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "'I was nervous!' Anderson throws first pitch at MLB London Series",
+            "description": "England cricketer James Anderson throws the ceremonial first pitch of the MLB London Series as St Louis Cardinals play Chicago Cubs at London Stadium.",
+            "url": "http://www.bbc.co.uk/sport/av/baseball/66010494",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13037/production/_130197877_andersonfirstpitch2.jpg",
+            "publishedAt": "2023-06-25T08:52:20.9172234Z",
+            "content": "Watch as England cricketer James Anderson throws the ceremonial first pitch of the MLB London Series as the St Louis Cardinals play the Chicago Cubs at London Stadium.\r\nWatch the MLB London Series ga… [+151 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
